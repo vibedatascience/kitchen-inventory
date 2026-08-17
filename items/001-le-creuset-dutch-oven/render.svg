@@ -1,0 +1,37 @@
+<svg width="100%" viewBox="0 0 380 400" role="img" xmlns="http://www.w3.org/2000/svg"><title>3D render of Le Creuset round Dutch oven</title><desc>Palm green Le Creuset round Dutch oven</desc>
+<defs>
+<linearGradient id="body3d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6b7a10"/><stop offset="0.18" stop-color="#93a51a"/><stop offset="0.42" stop-color="#c3d234"/><stop offset="0.55" stop-color="#cfdd45"/><stop offset="0.72" stop-color="#a9ba22"/><stop offset="1" stop-color="#5e6c0c"/></linearGradient>
+<linearGradient id="lid3d" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d6e256"/><stop offset="0.4" stop-color="#b8c72c"/><stop offset="0.75" stop-color="#94a51a"/><stop offset="1" stop-color="#7a8a12"/></linearGradient>
+<radialGradient id="knob3d" cx="0.35" cy="0.3" r="0.9"><stop offset="0" stop-color="#ffffff"/><stop offset="0.35" stop-color="#dfe3e8"/><stop offset="0.75" stop-color="#9aa2ac"/><stop offset="1" stop-color="#6b737d"/></radialGradient>
+<linearGradient id="rimlight" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c9c2a6"/><stop offset="0.5" stop-color="#efe9d2"/><stop offset="1" stop-color="#b3ac8f"/></linearGradient>
+<radialGradient id="floor" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#000000" stop-opacity="0.28"/><stop offset="0.7" stop-color="#000000" stop-opacity="0.12"/><stop offset="1" stop-color="#000000" stop-opacity="0"/></radialGradient>
+</defs>
+<ellipse cx="190" cy="356" rx="150" ry="22" fill="url(#floor)"/>
+<path d="M64 208 Q64 356 190 356 Q316 356 316 208 Z" fill="url(#body3d)"/>
+<path d="M64 208 Q64 356 190 356 Q316 356 316 208 Z" fill="none" stroke="#4c580a" stroke-width="0.8"/>
+<path d="M92 235 Q108 316 172 338" fill="none" stroke="#eaf17e" stroke-width="9" opacity="0.45" stroke-linecap="round"/>
+<path d="M286 240 Q278 300 236 330" fill="none" stroke="#3f4a06" stroke-width="10" opacity="0.25" stroke-linecap="round"/>
+<path d="M66 200 Q42 194 32 208 Q24 222 40 231 Q56 238 70 224 Z" fill="#9dae1c" stroke="#4c580a" stroke-width="0.8"/>
+<path d="M40 206 Q34 214 42 222" fill="none" stroke="#e2ea74" stroke-width="3" opacity="0.6" stroke-linecap="round"/>
+<path d="M314 200 Q338 194 348 208 Q356 222 340 231 Q324 238 310 224 Z" fill="#8a9a15" stroke="#4c580a" stroke-width="0.8"/>
+<path d="M340 206 Q346 214 338 222" fill="none" stroke="#dce668" stroke-width="3" opacity="0.45" stroke-linecap="round"/>
+<ellipse cx="190" cy="206" rx="128" ry="17" fill="url(#rimlight)"/>
+<ellipse cx="190" cy="206" rx="128" ry="17" fill="none" stroke="#8f8a70" stroke-width="0.6"/>
+<ellipse cx="190" cy="170" rx="132" ry="52" fill="#7d8c11"/>
+<ellipse cx="190" cy="162" rx="132" ry="50" fill="url(#lid3d)"/>
+<ellipse cx="190" cy="162" rx="132" ry="50" fill="none" stroke="#4c580a" stroke-width="0.8"/>
+<ellipse cx="190" cy="159" rx="106" ry="38" fill="none" stroke="#77860f" stroke-width="2.4" opacity="0.8"/>
+<ellipse cx="190" cy="158" rx="105" ry="37" fill="none" stroke="#e4ec7c" stroke-width="1" opacity="0.6"/>
+<ellipse cx="190" cy="156" rx="82" ry="28" fill="none" stroke="#77860f" stroke-width="2.4" opacity="0.8"/>
+<ellipse cx="190" cy="155" rx="81" ry="27" fill="none" stroke="#e4ec7c" stroke-width="1" opacity="0.6"/>
+<ellipse cx="190" cy="153" rx="58" ry="19" fill="none" stroke="#77860f" stroke-width="2.4" opacity="0.8"/>
+<ellipse cx="190" cy="152" rx="57" ry="18" fill="none" stroke="#e4ec7c" stroke-width="1" opacity="0.6"/>
+<path d="M96 142 Q150 118 262 130" fill="none" stroke="#f2f7a8" stroke-width="7" opacity="0.55" stroke-linecap="round"/>
+<path d="M120 186 Q180 204 268 190" fill="none" stroke="#5b6a0b" stroke-width="6" opacity="0.3" stroke-linecap="round"/>
+<text x="152" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#4c580a" opacity="0.9" transform="rotate(-8 152 140)">LE CREUSET</text>
+<path d="M182 116 L198 116 L196 130 L184 130 Z" fill="#a2b21e" stroke="#77860f" stroke-width="0.6"/>
+<ellipse cx="190" cy="112" rx="30" ry="13" fill="#7c848e"/>
+<ellipse cx="190" cy="108" rx="30" ry="12" fill="url(#knob3d)"/>
+<ellipse cx="190" cy="108" rx="30" ry="12" fill="none" stroke="#5f6771" stroke-width="0.6"/>
+<ellipse cx="179" cy="104" rx="10" ry="4" fill="#ffffff" opacity="0.9"/>
+</svg>
